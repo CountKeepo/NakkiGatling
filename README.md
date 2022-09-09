@@ -76,5 +76,6 @@ Nakkigatlingin osat
 - Kädensijat: Varmistavat vakaan otteen ja tarkan tulen.
 - Tukikehikot: Pitävät putket kasassa. 
 
-
-
+![gatling_esittely](https://user-images.githubusercontent.com/64993772/189293268-2bfe8edf-c239-437b-b3a5-5e436765e3c1.gif)
+![image](https://user-images.githubusercontent.com/64993772/189293303-ef104590-d468-44a1-8264-8214bce60e6f.png)
+![image](https://user-images.githubusercontent.com/64993772/189293329-e81a4ab7-b2f2-403b-9e35-516b5c5db4a0.png)
